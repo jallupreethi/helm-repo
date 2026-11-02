@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jagadeesh:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-02T13:36:31.063165628Z"
+    description: A Helm chart for Kubernetes
+    digest: 698f7ab183b406a555d03203233fe6976881265ec1a0ee62edf311cd4d9ae540
+    name: jagadeesh
+    type: application
+    urls:
+    - jagadeesh-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-02T13:36:31.06243394Z"
